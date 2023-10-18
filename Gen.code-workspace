@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../html5up-paradigm-shift/assets"
+		},
+		{
+			"path": "../html5up-paradigm-shift/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Gen"
+	}
+}
